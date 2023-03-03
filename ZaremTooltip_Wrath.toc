@@ -1,0 +1,5 @@
+## Title: ZaremTooltip
+## Interface: 30401
+## Notes: Simple Tooltip enhancements
+## SavedVariables: ZaremTooltipAnchor
+ZaremTooltip_Wrath.lua
